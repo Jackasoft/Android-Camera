@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="name">Name</string>
+    <string name="click_on_the_camera_button_to_start">Click on the camera button to start</string>
+    <string name="camera">Camera</string>
+    <string name="smoker">Smoker</string>
+    <string name="joker">Joker</string>
+</resources>
